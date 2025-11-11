@@ -1,2 +1,3 @@
-# zeroday-radar
-AI-powered security intelligence platform
+# ZeroDay Radar
+
+AI-powered security intelligence platform for startups
