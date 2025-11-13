@@ -1,0 +1,20 @@
+# ZeroDay Radar Platform - Python Dependencies
+
+# Network analysis for VulnPath
+networkx>=3.0
+
+# Data processing
+pandas>=2.0.0
+
+# API framework (for future REST API)
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# HTTP requests for API integrations
+requests>=2.31.0
+
+# Optional: Reddit API (for VulnPredict)
+# praw>=7.7.0
+
+# Optional: Visualization (if needed)
+# matplotlib>=3.7.0
