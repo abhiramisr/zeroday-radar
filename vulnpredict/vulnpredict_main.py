@@ -6,6 +6,7 @@ Orchestrates collection and analysis for early vulnerability detection
 from src.collectors.reddit_collector import RedditCollector
 from src.analyzers.anomaly_detector import AnomalyDetector
 from datetime import datetime
+from typing import Dict
 import json
 
 class VulnPredict:
